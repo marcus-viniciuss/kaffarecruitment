@@ -1,0 +1,5 @@
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\Valida\bin\Debug\Valida.dll
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\Valida\bin\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\Valida\obj\Debug\Valida.dll
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\Valida\obj\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\Valida\obj\Debug\Valida.csprojAssemblyReference.cache

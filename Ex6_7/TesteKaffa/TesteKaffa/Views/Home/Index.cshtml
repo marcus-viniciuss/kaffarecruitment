@@ -1,0 +1,31 @@
+﻿@model Result
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1 class="display-6">Exercício 06) Rest Client - World Clock</h1>
+</div>
+<div>
+    <!-- Bloco unitário -->
+    @{ var description = "Consulta um servidor http://worldtimeapi.org exibe a " +
+                     "data / hora atual nos fusos horários locais e UTC timezones.";}
+    @{ var serverURL = "http://worldtimeapi.org/api/timezone/America/Sao_Paulo";}
+    <!-- Incorporado -->
+    <p><h5> @description</h5></p>
+    <p>@serverURL</p>
+    <p> Horário de São Paulo: @Model.Clock.datetime</p>
+    <p> Timezone: @Model.Clock.timezone</p>
+
+</div>
+<div >
+    <h1 class="display-6">Exercício 07) REST server returning a JSON like:</h1>
+</div>
+    <p>REST server returning a JSON like:</p>
+    <p>{</p>
+    <p><span>
+        "currentDateTime":"20190812T14:40Z""
+    </span></p>
+    <p>}</p>
+
+<p> json: @Model.DateTime</p>

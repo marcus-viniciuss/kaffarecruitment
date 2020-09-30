@@ -1,0 +1,12 @@
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\bin\Debug\ValidateCnpjDigits.exe.config
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\bin\Debug\ValidateCnpjDigits.exe
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\bin\Debug\ValidateCnpjDigits.pdb
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\bin\Debug\Valida.dll
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\bin\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.csprojAssemblyReference.cache
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.Form1.resources
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.Properties.Resources.resources
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.csproj.GenerateResource.cache
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.csproj.CopyComplete
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.exe
+C:\WorkSpace\Kaffa\Ex2\ValidateCnpjDigits\ValidateCnpjDigits\obj\Debug\ValidateCnpjDigits.pdb

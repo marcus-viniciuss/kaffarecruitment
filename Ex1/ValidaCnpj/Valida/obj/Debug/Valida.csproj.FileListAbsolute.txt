@@ -1,0 +1,10 @@
+C:\WorkSpace\Kaffa\ValidaCnpj\Valida\bin\Debug\Valida.dll
+C:\WorkSpace\Kaffa\ValidaCnpj\Valida\bin\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\ValidaCnpj\Valida\obj\Debug\Valida.csprojAssemblyReference.cache
+C:\WorkSpace\Kaffa\ValidaCnpj\Valida\obj\Debug\Valida.dll
+C:\WorkSpace\Kaffa\ValidaCnpj\Valida\obj\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\Ex1\ValidaCnpj\Valida\bin\Debug\Valida.dll
+C:\WorkSpace\Kaffa\Ex1\ValidaCnpj\Valida\bin\Debug\Valida.pdb
+C:\WorkSpace\Kaffa\Ex1\ValidaCnpj\Valida\obj\Debug\Valida.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Kaffa\Ex1\ValidaCnpj\Valida\obj\Debug\Valida.dll
+C:\WorkSpace\Kaffa\Ex1\ValidaCnpj\Valida\obj\Debug\Valida.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteKaffa", "TesteKaffa\TesteKaffa.csproj", "{73951D29-88B4-4768-B9E9-5CB5210943A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalApi", "ExternalApi\ExternalApi.csproj", "{DA8AC23A-08BF-4969-8916-E796F85782FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73951D29-88B4-4768-B9E9-5CB5210943A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73951D29-88B4-4768-B9E9-5CB5210943A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73951D29-88B4-4768-B9E9-5CB5210943A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73951D29-88B4-4768-B9E9-5CB5210943A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8AC23A-08BF-4969-8916-E796F85782FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8AC23A-08BF-4969-8916-E796F85782FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8AC23A-08BF-4969-8916-E796F85782FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8AC23A-08BF-4969-8916-E796F85782FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3871C8BE-0358-462A-9E2C-23407D874445}
+	EndGlobalSection
+EndGlobal

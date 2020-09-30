@@ -1,0 +1,8 @@
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\bin\Release\netcoreapp3.1\ExternalApi.deps.json
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\bin\Release\netcoreapp3.1\ExternalApi.dll
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\bin\Release\netcoreapp3.1\ExternalApi.pdb
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\obj\Release\netcoreapp3.1\ExternalApi.AssemblyInfoInputs.cache
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\obj\Release\netcoreapp3.1\ExternalApi.AssemblyInfo.cs
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\obj\Release\netcoreapp3.1\ExternalApi.csproj.CoreCompileInputs.cache
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\obj\Release\netcoreapp3.1\ExternalApi.dll
+C:\Users\Predador\source\repos\TesteKaffa\ExternalApi\obj\Release\netcoreapp3.1\ExternalApi.pdb
